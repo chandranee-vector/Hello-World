@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb6de48-6850-484c-b4e6-15fb5620a33e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/File_in_new_branch.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/File_in_new_branch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/File2.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_in_new_branch.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/File_in_new_branch.txt">
+      <file leaf-file-name="File2.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/File2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -43,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/HelloWorld.txt" />
         <option value="$PROJECT_DIR$/File_in_new_branch.txt" />
+        <option value="$PROJECT_DIR$/File2.txt" />
       </list>
     </option>
   </component>
@@ -52,7 +52,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2552" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
@@ -150,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537227339728</updated>
-      <workItem from="1537227343282" duration="636000" />
+      <workItem from="1537227343282" duration="930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="636000" />
+    <option name="totallyTimeSpent" value="930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-8" width="2576" height="1416" extended-state="6" />
@@ -171,7 +171,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32988048" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.54103583" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498008" />
@@ -204,10 +204,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/File_in_new_branch.txt">
+    <entry file="file://$PROJECT_DIR$/File2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="29" />
         </state>
       </provider>
     </entry>
